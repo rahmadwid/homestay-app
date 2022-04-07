@@ -1,0 +1,14 @@
+.marker {
+    background-color: lightblue;
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 36px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.marker.selected {
+    background-color: yellow;
+    border-color: black;
+    font-weight: bold;
+}
