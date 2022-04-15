@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/homestay-app/static/css/main.e04fa132.css",
-    "main.js": "/homestay-app/static/js/main.c31c5de8.js",
+    "main.css": "/homestay-app/static/css/main.0abedaf6.css",
+    "main.js": "/homestay-app/static/js/main.9bca6140.js",
     "static/js/787.8302f964.chunk.js": "/homestay-app/static/js/787.8302f964.chunk.js",
     "index.html": "/homestay-app/index.html",
-    "main.e04fa132.css.map": "/homestay-app/static/css/main.e04fa132.css.map",
-    "main.c31c5de8.js.map": "/homestay-app/static/js/main.c31c5de8.js.map",
+    "main.0abedaf6.css.map": "/homestay-app/static/css/main.0abedaf6.css.map",
+    "main.9bca6140.js.map": "/homestay-app/static/js/main.9bca6140.js.map",
     "787.8302f964.chunk.js.map": "/homestay-app/static/js/787.8302f964.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e04fa132.css",
-    "static/js/main.c31c5de8.js"
+    "static/css/main.0abedaf6.css",
+    "static/js/main.9bca6140.js"
   ]
 }
