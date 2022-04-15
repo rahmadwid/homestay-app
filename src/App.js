@@ -56,7 +56,7 @@ componentDidMount() {
     <div className='app'>
       <div className='main'>
         <div className='search'>
-          <input className='input' type="text" placeholder='search...' value={this.state.search} onChange={this.handleSearch} />
+          <input type="text" placeholder='search...' value={this.state.search} onChange={this.handleSearch} />
         </div>
         <div className='homestays'>
           {this.state.homestays.map((homestay) => {

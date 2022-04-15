@@ -14,7 +14,7 @@ class Homestay extends Component {
         }
 
         return (
-            <div onClick={this.handleClick}>
+            <div className="homestay" onClick={this.handleClick}>
                 <div className="homestay-foto" style={style}></div>
                 <div className="homestay-judul">{judul}</div>
             </div>
